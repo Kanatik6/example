@@ -1,10 +1,8 @@
-# example
-rest_auth нестандартный, registration, login, logout 
+# example for use in feature
+custom rest_auth: registration, login, logout 
 
-тут есть добавление пользователя в качестве автора по умолчанию 
-property 
-drf_yasg/swagger
-drf vs + APIView
+add user as default author
 
-manager finansov
-аякс запросы
+ - @property 
+ - drf_yasg/swagger
+ - drf vs + APIView
